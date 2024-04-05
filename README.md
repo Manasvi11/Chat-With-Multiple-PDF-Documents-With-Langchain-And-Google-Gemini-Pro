@@ -39,3 +39,9 @@ streamlit run pdfapp.py
 ```
 
 ![image](https://github.com/Manasvi11/Chat-With-Multiple-PDF-Documents-With-Langchain-And-Google-Gemini-Pro/assets/71812747/9ffed0c2-3b7e-4e4b-82af-3e74ed86fab5)
+
+![image](https://github.com/Manasvi11/Chat-With-Multiple-PDF-Documents-With-Langchain-And-Google-Gemini-Pro/assets/71812747/0eceb912-2b82-4b63-8932-e7175455bc85)
+
+![image](https://github.com/Manasvi11/Chat-With-Multiple-PDF-Documents-With-Langchain-And-Google-Gemini-Pro/assets/71812747/3a80409a-1bed-41ec-bc0c-62e748daef3a)
+
+
